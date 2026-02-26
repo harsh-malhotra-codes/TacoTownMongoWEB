@@ -1,0 +1,13 @@
+{
+  "name": "tacotownapptime-main",
+  "version": "1.0.0",
+  "description": "A complete food ordering system with admin dashboard, order management, and customer ordering interface.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
